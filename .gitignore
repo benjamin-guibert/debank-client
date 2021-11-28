@@ -1,0 +1,25 @@
+# Dependencies
+
+/node_modules
+/src/contracts/*
+!/src/contracts/.gitkeep
+
+# Logs
+
+*.log
+
+# Environment
+
+.env
+
+# Deployment
+
+/dist
+
+# Temporary files
+
+/tmp
+
+# Miscellaneous
+
+.DS_Store
